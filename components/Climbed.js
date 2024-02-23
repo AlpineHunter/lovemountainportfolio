@@ -20,7 +20,7 @@ function Climbed() {
           </p>
         </div>
         {/* グリットレイアウト */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap5 max-xs:grid-cols-1 mt-10">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap5 max-xs:grid-cols-2 mt-10">
           <div className="flex flex-col items-center bg-whitesmoke p-8 round-md text-center shadow-sm justify-center">
             <Image
               src={"/assets/mountains/tenpaizan1.jpg"}
