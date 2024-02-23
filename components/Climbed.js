@@ -33,7 +33,7 @@ function Climbed() {
           </div>
           <div className="flex flex-col items-center bg-whitesmoke p-8 round-md text-center shadow-sm justify-center">
             <Image
-              src={"/assets/mountains/ushikubiyama.JPG"}
+              src={"/assets/mountains/ushikubiyama.jpg"}
               width={150}
               height={150}
               alt="牛頸山"
@@ -43,7 +43,7 @@ function Climbed() {
           </div>
           <div className="flex flex-col items-center bg-whitesmoke p-8 round-md text-center shadow-sm justify-center">
             <Image
-              src={"/assets/mountains/kiyama.JPG"}
+              src={"/assets/mountains/kiyama.jpg"}
               width={150}
               height={150}
               alt="基山"
@@ -63,7 +63,7 @@ function Climbed() {
           </div>
           <div className="flex flex-col items-center bg-whitesmoke p-8 round-md text-center shadow-sm justify-center">
             <Image
-              src={"/assets/mountains/tachibanayama.JPG"}
+              src={"/assets/mountains/tachibanayama.jpg"}
               width={150}
               height={150}
               alt="立花山"
@@ -93,7 +93,7 @@ function Climbed() {
           </div>
           <div className="flex flex-col items-center bg-whitesmoke p-8 round-md text-center shadow-sm justify-center">
             <Image
-              src={"/assets/mountains/houmanzan.JPG"}
+              src={"/assets/mountains/houmanzan.jpg"}
               width={150}
               height={150}
               alt="宝満山"
